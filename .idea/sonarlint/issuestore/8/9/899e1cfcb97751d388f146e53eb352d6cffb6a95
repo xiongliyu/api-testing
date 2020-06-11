@@ -1,0 +1,6 @@
+
+cpython:S107"LMethod "__init__" has 15 parameters, which is greater than the 7 authorized.(ÄàÔ‚
+lpython:S37769"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(–ˆ´©
+upython:S117S"^Rename this local variable "expectedFails" to match the regular expression ^[_a-z][a-z0-9_]*$.(ßÂÄ¤
+€python:S117T"dRename this local variable "unexpectedSuccesses" to match the regular expression ^[_a-z][a-z0-9_]*$.(Û¶¯Êúÿÿÿÿ
+@python:S108v")Either remove or fill this block of code.(ã‘Û¾

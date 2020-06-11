@@ -1,0 +1,8 @@
+
+Vpython:S1143 "9Remove this "return" statement from this "finally" block.(’î¥âþÿÿÿÿ
+jpython:S117M"SRename this parameter "subTest" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ä ÎÖ
+`python:S100c"IRename method "id" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(˜›àö
+rpython:S3776û"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(–—Õ’ûÿÿÿÿ
+npython:S117Ð"VRename this parameter "testRunner" to match the regular expression ^[_a-z][a-z0-9_]*$.(½ËÊí
+mpython:S117Ø"VRename this parameter "testRunner" to match the regular expression ^[_a-z][a-z0-9_]*$.(…©¢`
+spython:S117†"VRename this parameter "testRunner" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÔÄûÔþÿÿÿÿ
